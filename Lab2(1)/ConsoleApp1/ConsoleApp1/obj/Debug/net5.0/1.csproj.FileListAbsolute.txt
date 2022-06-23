@@ -1,0 +1,16 @@
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\1.exe
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\1.deps.json
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\1.runtimeconfig.json
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\1.runtimeconfig.dev.json
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\1.dll
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\1.dll
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\1.pdb
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\1.csproj.AssemblyReference.cache
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\1.AssemblyInfoInputs.cache
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\1.AssemblyInfo.cs
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\1.csproj.CoreCompileInputs.cache
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\1.dll
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\1.dll
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\1.pdb
+D:\прога\c#\Lab2(1)\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\1.genruntimeconfig.cache
